@@ -1,0 +1,16 @@
+.Button {
+    background-color: #ff8b37;
+    border-radius: 12px;
+    min-width: 200;
+    color: #fff;
+    padding: 12px 0;
+    border-color: transparent;
+}
+
+.Button:hover {
+    background-color: #ffac70;
+}
+
+.Button:active {
+    background-color: #e87928;
+}
